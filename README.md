@@ -21,5 +21,11 @@ https://reactjsnews.com/isomorphic-react-in-real-life
 https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 
 ## NodeJS
-###Learning path: Get started with AI in Node.js  
-https://developer.ibm.com/languages/node-js/
+### Learning path: Get started with AI in Node.js  
+https://developer.ibm.com/languages/node-js/  
+
+## Gsap 3
+### A powerful library for web animation 
+https://greensock.com/3/  
+https://www.youtube.com/watch?v=_-YfoAzIDzw  
+https://www.youtube.com/watch?v=whk76VMOlp0
