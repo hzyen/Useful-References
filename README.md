@@ -21,5 +21,5 @@ https://reactjsnews.com/isomorphic-react-in-real-life
 https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 
 ## NodeJS
-###Learning path: Get started with AI in Node.js
+###Learning path: Get started with AI in Node.js  
 https://developer.ibm.com/languages/node-js/
